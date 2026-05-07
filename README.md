@@ -157,9 +157,9 @@ The goal is not reckless overbooking, but rather a **data-informed optimization 
 
 # Dashboard Preview
 
-```md
+
 ![Dashboard Screenshot](images/1755254337334.jpg)
-```
+
 
 ---
 
@@ -194,5 +194,6 @@ This project demonstrates how Excel can be used not just for reporting, but for 
 
 # Author
 
- Muh'Qoozim Muh'Jamiu
+Muh'Qoozim Muh'Jamiu
+---
 Data Analyst | Excel | SQL | Power BI | python
